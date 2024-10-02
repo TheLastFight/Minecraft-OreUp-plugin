@@ -1,0 +1,12 @@
+name: CityCraftOfiicalOreUpgrader
+version: '1.0-SNAPSHOT'
+main: org.pgsplugin.citycraftofiicaloreupgrader.CityCraftOfiicalOreUpgrader
+api-version: '1.20'
+description: ejaze midahad ore ha upgrade shavad
+commands:
+  oreup:
+    usage: /oreup
+    aliases:
+      - Oreupgrade
+      - orp
+      - Oreupchangeore
